@@ -32,4 +32,4 @@
 
 ---
 
-?? [github.com/Orahos/analiz_masyviv_danyh](https://github.com/Orahos/analiz_masyviv_danyh)
+[github.com/Orahos/analiz_masyviv_danyh](https://github.com/Orahos/analiz_masyviv_danyh)
